@@ -1,7 +1,7 @@
 import unittest
 
-from test1 import sum
-from test1 import lengths
+from python.func.test1 import sum
+from python.func.test1 import lengths
 
 class TestStringMethods(unittest.TestCase):
 
